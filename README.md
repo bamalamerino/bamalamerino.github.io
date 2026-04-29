@@ -24,8 +24,8 @@ Aspiring cyber security professional actively looking for a cyber security role.
 
 ## Practical Projects
 
-- Conducted an enterprise-wide NIST Cyber Security assessment as part of GRC Mastery training course.
-- Ran and configured my own device for sniffing and retrieving WPA and WPA2 handshakes from out-of-date Wi-Fi routers.
+- Configured and deployed a Pwnagotchi AI-driven device to passively capture WPA/WPA2 
+handshakes, demonstrating practical knowledge of wireless network vulnerabilities and authentication protocols.
 - Built and ran a multi-channel FPV drone race event timer, using RSSI technology to receive the drone video frequency within the 5.8GHz band for accurate and fast live lap timing.
 - Configured a network-wide DNS sinkhole that blocks advertisements, trackers, and malicious domains for all devices on a network.
 
