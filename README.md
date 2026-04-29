@@ -45,5 +45,7 @@ Aspiring cyber security professional actively looking for a cyber security role.
 ### Photographer / FPV Drone Pilot
 **Matthew Clark Imagery** | *2021 — Present*
 
-- FPV drone flythroughs for client immersion through their front-facing businesses.
+FPV drone flythroughs for client immersion through their front-facing businesses.
 - E-commerce photography, working to tight deadlines.
+- Fashion photographer with experience shooting at **London Fashion Week** and **Copenhagen Fashion Week**.
+- Published in international print and digital magazines including **Mavie** (France) and **17.23 Mag** (London).
